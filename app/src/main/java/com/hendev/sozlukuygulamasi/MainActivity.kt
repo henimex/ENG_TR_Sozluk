@@ -33,7 +33,6 @@ class MainActivity : AppCompatActivity(), SearchView.OnQueryTextListener {
 
         tumKelimeler()
 
-
     }
 
     override fun onCreateOptionsMenu(menu: Menu?): Boolean {
